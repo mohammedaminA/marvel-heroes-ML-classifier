@@ -27,6 +27,7 @@ dependencies:
   image_picker: ^0.8.0
   intro_screen_onboarding_flutter: ^0.1.5
   picker: ^1.0.6
+  tflite: ^1.1.2
 
 dev_dependencies:
   flutter_test:
