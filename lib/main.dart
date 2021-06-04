@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Marvel App',
-      home: IntroScreen(),
+      home: IntroScreen(),e
     );
   }
 }
